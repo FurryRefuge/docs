@@ -13,9 +13,10 @@
  3. "Be careful with what you are posting."
     a). Hateful, discriminatory, threatening and abusive comments towards users, living beings, organisations or certain groups, blackmail, or leaking of personal information is not allowed.
     b). Posts containing, portraying, promoting or describing extremely sensitive and/or controversial topics are not allowed.
-    c). Swearing is allowed, however, we do ask of you to keep it to a minimum.
-    d). Аll members of the servers and members of the fandom should be respected at аll times.
-    e). Surveying members is not allowed without permission from staff.
+    c). Intentions of instigating, manipulating or provoking others' emotions for amusement or purposeful posts of inflammatory and digressive or extraneous messages is prohibited.
+    d). Swearing is allowed, however, we do ask of you to keep it to a minimum.
+    e). Аll members of the servers and members of the fandom should be respected at аll times.
+    f). Surveying members is not allowed without permission from staff.
         a). Surveying fandom members with questions regarding why they joined the fandom and any other similiar questions will lead to a ban.
 
  4. "Offensive or racist language or content, discriminatory jokes and hate speech is prohibited."
