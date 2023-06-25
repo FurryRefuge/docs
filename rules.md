@@ -2,7 +2,7 @@
  0. "Last Updated" 25/06/23
  0. "Preamble"
  0.  The Furry Refuge's members must follow these rules at аll times.
-    a). These rules are enforceable on past or present user-generated
+    a). These rules are enforceable оn past or present user-generated
         i). content or actions accessible within The Furry Refuge, including but not limited to messages, stickers, emojis, profiles; and
        ii). content or actions where The Furry Refuge is the mediator, such as direct-messages.
     b). No member of The Furry Refuge is excluded from these rules.
