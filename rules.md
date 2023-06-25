@@ -1,10 +1,10 @@
 ```apache
- 0. "Last Updated" 19/11/21
+0. "Last Updated" 06/05/22
  0. "Introduction"
  0.  The Furry Refuge's members must follow these rules at аll times. These rules do not exclude direct-messaging, usernames, prior usernames, nicknames, custom statuses and game statuses. No single member of The Furry Refuge is excluded from these rules.
 
  1. "These rules are not exhaustive."
-    a). If a staff member says it's not allowed; it's not allowed.
+    a). If it looks disallowed, sounds disallowed, and said by a moderator it's disallowed, it is generally not allowed.
 
  2. "Do not ignore, disregard or argue with a staff member when asked to complete a task in compliance of a rule."
     a). If you believe a staff member has made a mistake or you do not agree with their decisions, do not argue with them. Allow them to do what they're doing and speak to another staff member once they're done.
@@ -46,8 +46,8 @@
     c). Role pings have specific functionality and should not be misused.
     d). Аll staff direct-messages are reserved for support only unless explicit permission is given.
 
- 8. "NSFW content is not allowed within the server."
-    a). If you're unsure if the content you're posting is NSFW, be sure to ask a moderator in DMs.
+ 8. "Unsafe content is not allowed within the server."
+    a). If you're unsure if the content you're posting is SFW, it is probably not safe to post.
     b). This also includes explicitly suggestive text, content and material.
     c). This is meant to be a wholesome server. Any mentioning of the less-wholesome opinions of the fandom is not allowed.
 
@@ -69,7 +69,7 @@
 
 11. "Use your common sense."
     a). Obvious rules should not be listed here. Think before posting; if it's gonna hurt someone, then don't post it.
-    b). Discord's ToS (https://dis.gd/tos) and Community Guidelines (https://dis.gd/guidelines) should be followed at аll times by аll users.
+    b). Discord's ToS (https://dis.gd/tos) and Community Guidelines (https://dis.gd/guidelines) is enforced to full extent and should be followed at аll times by аll users.
     c). Sending messages within or to this server from parties that are currently muted or banned is disallowed and will lead to a sanction.
     d). Advising or inciting a user to break the server's rules is not allowed and will lead to a severe sanction.
 
