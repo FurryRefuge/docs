@@ -5,24 +5,23 @@ title: Server Rules
 **Last Updated**:  
 25 Jun. 2023
 
-# Rules
-
-{:toc}
-
-## 0. The Furry Refuge's members must follow these rules at аll times.
-    a). These rules are enforceable оn past or present user-generated content or actions
-        i). accessible within The Furry Refuge, including but not limited to messages, stickers, emojis, profiles; and
-       ii). where The Furry Refuge is the mediator, such as direct-messages.
+```apache
+ 0. "Last Updated" 25/06/23
+ 0. "Preamble"
+ 0.  The Furry Refuge's members must follow these rules at аll times.
+    a). These rules are enforceable оn past or present user-generated
+        i). content or actions accessible within The Furry Refuge, including but not limited to messages, stickers, emojis, profiles; and
+       ii). content or actions where The Furry Refuge is the mediator, such as direct-messages.
     b). No member of The Furry Refuge is excluded from these rules.
 
-## 1. These rules are not exhaustive.
+ 1. "These rules are not exhaustive."
     a). If it looks disallowed, sounds disallowed or said by a moderator it's disallowed, it is generally not allowed.
 
-## 2. "Do not ignore, disregard or argue with a staff member when asked to complete a task in compliance of a rule."
+ 2. "Do not ignore, disregard or argue with a staff member when asked to complete a task in compliance of a rule."
     a). If you disagree with the moderator's actions, you may refute any ongoing sanction by application.
     b). Provoking staff will not be tolerated.
 
-## 3. "Be careful with what you are posting."
+ 3. "Be careful with what you are posting."
     a). Hateful, discriminatory, threatening and abusive comments towards users, organisations or specific groups, as well as leaking private information is prohibited.
     b). Posts containing, portraying or promoting sensitive and/or controversial topics are not allowed.
     c). Intentions of instigating, manipulating or provoking others' emotions for amusement or purposeful posts of inflammatory and digressive or extraneous messages is prohibited.
@@ -31,14 +30,14 @@ title: Server Rules
     f). Surveying members is not allowed without permission from staff.
         a). Surveying fandom members with questions regarding why they joined the fandom or other similar questions will lead to a ban.
 
-## 4. "Offensive or racist language or content, discriminatory jokes and hate speech is prohibited."
+ 4. "Offensive or racist language or content, discriminatory jokes and hate speech is prohibited."
     a). Excessive obscenities are not acceptable and will lead to a permanent ban.
 
-## 5. "Politics are not allowed."
+ 5. "Politics are not allowed."
     a). Please do not discuss politics or your political opinions within the server.
     b). Controversial political symbols, organisations or persons are prohibited.
 
-## 6. "Advertising is not allowed."
+ 6. "Advertising is not allowed."
     a). This includes, but not limited to,
         i). requesting subscription to a service;
        ii). promotion of unaffiliated communities;
@@ -46,7 +45,7 @@ title: Server Rules
        iv). use of referral links; and
         v). direct-messaging a user with any promotion content without their explicit permission.
 
-## 7. "Respect all members' notifications and privacy."
+ 7. "Respect all members' notifications and privacy."
     a). Do not disturb a member within DMs without explicit permission.
         a). Having the “DM's Open” role does not grant you permission to DM a member. Please ask nicely within the server.
         b). The Furry Refuge staff do not require explicit permission to DM server members.
@@ -59,12 +58,12 @@ title: Server Rules
     c). Role pings have specific functionality and should not be misused.
     d). Аll staff direct-messages are reserved for support only, unless explicit permission is given.
 
-## 8. "Unsafe content is not allowed within the server."
+ 8. "Unsafe content is not allowed within the server."
     a). If you're unsure if the content you're posting is safe, it is probably not safe to post.
     b). This also includes explicitly suggestive text, content and material.
     c). This is meant to be a wholesome server. Any mentioning of less-wholesome opinions of the fandom is not allowed.
 
-## 9. "Depictions of cruel, morbid or distressing content is not allowed."
+9. "Depictions of cruel, morbid or distressing content is not allowed."
     a). This includes, but not limited to, depictions, imagery or content
         i). with the potential or intended ability to cause harm to the viewer in any way, shape or form, mentally or physically;
        ii). in violation of Discord's ToS (https://dis.gd/tos);
@@ -72,7 +71,7 @@ title: Server Rules
        iv). promoting self-harm or drug abuse; and
         v). containing seen or unseen cruelty, harm or violence to any living creature or person.
 
-## 10. "Do not spam."
+10. "Do not spam."
     a). This includes, but not limited to,
         i). mic-spam, esp. excessive use of voice changer;
        ii). excessive mentioning;
@@ -81,10 +80,11 @@ title: Server Rules
         v). sending a message with no content or meaning; and
        vi). sending a message that is not relevant to the current conversation or topic.
 
-## 11. "Use your common sense."
+11. "Use your common sense."
     a). Obvious rules should not be listed here. Think before posting; if it's gonna hurt someone, then don't post it.
     b). Discord's ToS (https://dis.gd/tos) and Community Guidelines (https://dis.gd/guidelines) is enforced to full extent and should be followed at аll times by аll users.
     c). Sending messages within or to this server from parties that are currently muted or banned is disallowed and will lead to a sanction.
     d). Advising or inciting a user to break the server's rules is not allowed and will lead to a severe sanction.
 
- ## 0. "It's on you to stay updated with these rules."
+ 0. "It's on you to stay updated with these rules."
+```
