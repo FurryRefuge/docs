@@ -5,6 +5,8 @@ title: Server Rules
 **Last Updated**:  
 25 Jun. 2023
 
+# Rules
+
 {:toc}
 
 ## 0. The Furry Refuge's members must follow these rules at аll times.
